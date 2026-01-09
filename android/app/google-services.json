@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "217690286262",
+    "project_id": "crop-guardian-2298d",
+    "storage_bucket": "crop-guardian-2298d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217690286262:android:6dff604fbdf6ece81c5e17",
+        "android_client_info": {
+          "package_name": "com.durgaprajapati.cropguardian"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlQKHVpH4kiXN7eJH95X3qhy8pBSSMqgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217690286262:android:0022d2df09d339811c5e17",
+        "android_client_info": {
+          "package_name": "com.durgaprajapati.croupguardiandurgaprajapati"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlQKHVpH4kiXN7eJH95X3qhy8pBSSMqgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
